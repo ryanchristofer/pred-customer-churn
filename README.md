@@ -1,5 +1,5 @@
 # pred-customer-churn
-Customer Churn Prediction (Case: Telecommunication)
+Customer Churn Prediction (Case: Telecommunication) - Classification
 
 ![Project of the FGA Kominfo X Binar](/Logo.png)
 
