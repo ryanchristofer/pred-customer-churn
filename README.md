@@ -1,7 +1,7 @@
 # pred-customer-churn
 Customer Churn Prediction (Case: Telecommunication)
 
-![Project of the FGA Kominfo X Binar](/logo.png)
+![Project of the FGA Kominfo X Binar](/Logo.png)
 
 ## Overview 
 Customer churn prediction is a system for analyzing and predicting customer characteristics with the aim of mapping business strategies. Broadly speaking, this project consists of data preprocessing, base model, and hyperparameters.
